@@ -3,7 +3,7 @@
 <html>
 <head>
 <title> M.S.C Profile</title>
-<link rel="stylesheet" type="text/css" href="styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="profile\styles.css" media="all">
 <style>
 .navbar{float:center;}
 ul
