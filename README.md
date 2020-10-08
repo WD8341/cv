@@ -56,7 +56,7 @@ li a:hover
 <body>
 	<header>
 		<h3 font align="center">My Profile</h3>
-		<center><img src="srikar.jpg.jpg" height="300px" width="300px"></center>
+		<center><img src="srikar.JPG" height="300px" width="300px"></center>
 		<h2 font align="center">My Self </h2>
 		<h1 font align="center">Motupally Srikara Charya</h1>
 	<div class="navbar">
