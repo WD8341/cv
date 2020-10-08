@@ -8,7 +8,6 @@
 	body
 {
 	background-color:aed600;
-	
 }
 body header
 {
@@ -17,7 +16,6 @@ body header
 	border:10px solid blue;
 	padding:50px;
 	margin:50px;
-
 }
 body h1
 {
@@ -30,9 +28,7 @@ body h2
 	font-family:Castellar;
 	font-size:2.5em;
 	color:a40036;
-
 }
-
 .navbar{float:center;}
 ul
 {
@@ -41,7 +37,6 @@ ul
 	width:200px;
 	padding:0px;
 	margin:0px;
-
 }
 li a
 {
@@ -50,15 +45,11 @@ li a
 	color:pink;
 	padding:10px;
 	display:block;
-
 }
 li a:hover
 {
 	background-color:00c177;
 	color:black;
-	
-
-
 }
 </style>
 </head>
@@ -69,7 +60,7 @@ li a:hover
 		<h2 font align="center">My Self </h2>
 		<h1 font align="center">Motupally Srikara Charya</h1>
 	<div class="navbar">
-			<ul>
+		<ul>
 			<li><a href="about.html">Self Introduction</a></li>
 			<li><a href="carrer.html">Career</a></li>
 			<li><a href="other.html">Other activites</a></li>
