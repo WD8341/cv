@@ -3,38 +3,37 @@
 <title> M.S.C Profile</title>
 <link rel="stylesheet" type="text/css" href="profile\styles.css" media="all">
 <style>
-	body
+body
 {
-	background-color:aed600;
+	background-color: aed600;
 }
 body header
 {
-	background-color:ff9c99;
-	background-attachment:fixed;
-	border:10px solid blue;
+	background:  rgb(255,156,153);
+	background-attachment: fixed;
+	border: 10px solid blue;
 	padding:50px;
 	margin:50px;
 }
 body h1
 {
-	font-family:Cooper Black;	
-	font-size:3em;
-	color:ff2fee;
+	font-family: Cooper Black;	
+	font-size: 3em;
+	color: ff2fee;
 }
 body h2
 {
-	font-family:Castellar;
-	font-size:2.5em;
-	color:a40036;
+	font-family: Castellar;
+	font-size: 2.5em;
+	color: a40036;
 }
-.navbar{float:center;}
 ul
 {
-	list-style-type:none;
-	background-color:red;
-	width:200px;
-	padding:0px;
-	margin:0px;
+	list-style-type: none;
+	background-color: red;
+	width: 200px;
+	padding: 0px;
+	margin: 0px;
 }
 li a
 {
