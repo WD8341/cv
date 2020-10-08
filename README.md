@@ -10,49 +10,26 @@
 	background-color:aed600;
 	
 }
-
-
-
-
-
-
 body header
 {
-	
 	background-color:ff9c99;
 	background-attachment:fixed;
 	border:10px solid blue;
 	padding:50px;
 	margin:50px;
 
-	
-
-
 }
-
 body h1
 {
 	font-family:Cooper Black;	
 	font-size:3em;
 	color:ff2fee;
 }
-
 body h2
 {
-		
 	font-family:Castellar;
 	font-size:2.5em;
 	color:a40036;
-
-}
-
-
-body h3
-{
-	
-
-
-
 
 }
 
@@ -66,7 +43,6 @@ ul
 	margin:0px;
 
 }
-
 li a
 {
 	text-decoration:none;
@@ -76,7 +52,6 @@ li a
 	display:block;
 
 }
-
 li a:hover
 {
 	background-color:00c177;
@@ -85,8 +60,6 @@ li a:hover
 
 
 }
-
-
 </style>
 </head>
 <body>
@@ -95,10 +68,8 @@ li a:hover
 		<center><img src="C:/Users/DELL/Desktop/srikar.jpg" height="300px" width="300px"></center>
 		<h2 font align="center">My Self </h2>
 		<h1 font align="center">Motupally Srikara Charya</h1>
-		
 	<div class="navbar">
-
-		<ul>
+			<ul>
 			<li><a href="about.html">Self Introduction</a></li>
 			<li><a href="carrer.html">Career</a></li>
 			<li><a href="other.html">Other activites</a></li>
@@ -108,11 +79,6 @@ li a:hover
 	<footer>
 		<p><center>copyright © Msacharya @ 19</center></p>
 	</footer>
-
-
-
-
-
 
 </body>
 </html>
