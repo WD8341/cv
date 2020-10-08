@@ -1,5 +1,3 @@
-# cv
-‏<!DOCTYPE html>
 <html>
 <head>
 <title> M.S.C Profile</title>
