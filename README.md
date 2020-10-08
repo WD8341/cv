@@ -5,6 +5,57 @@
 <title> M.S.C Profile</title>
 <link rel="stylesheet" type="text/css" href="profile\styles.css" media="all">
 <style>
+	body
+{
+	background-color:aed600;
+	
+}
+
+
+
+
+
+
+body header
+{
+	
+	background-color:ff9c99;
+	background-attachment:fixed;
+	border:10px solid blue;
+	padding:50px;
+	margin:50px;
+
+	
+
+
+}
+
+body h1
+{
+	font-family:Cooper Black;	
+	font-size:3em;
+	color:ff2fee;
+}
+
+body h2
+{
+		
+	font-family:Castellar;
+	font-size:2.5em;
+	color:a40036;
+
+}
+
+
+body h3
+{
+	
+
+
+
+
+}
+
 .navbar{float:center;}
 ul
 {
@@ -67,53 +118,3 @@ li a:hover
 </html>
 
 
-body
-{
-	background-color:aed600;
-	
-}
-
-
-
-
-
-
-body header
-{
-	
-	background-color:ff9c99;
-	background-attachment:fixed;
-	border:10px solid blue;
-	padding:50px;
-	margin:50px;
-
-	
-
-
-}
-
-body h1
-{
-	font-family:Cooper Black;	
-	font-size:3em;
-	color:ff2fee;
-}
-
-body h2
-{
-		
-	font-family:Castellar;
-	font-size:2.5em;
-	color:a40036;
-
-}
-
-
-body h3
-{
-	
-
-
-
-
-}
