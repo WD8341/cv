@@ -5,7 +5,7 @@
 <style>
 body
 {
-	background-color: aed600;
+	background: rgb(174,214,0);
 }
 body header
 {
